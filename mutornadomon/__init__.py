@@ -9,4 +9,4 @@ __author__ = 'dev@uber.com'
 __version__ = '.'.join(map(str, version_info))
 __license__ = 'MIT'
 
-__all__ = ['MuTornadoMon', initialize_mutornadomon, 'version_info']
+__all__ = ['MuTornadoMon', 'initialize_mutornadomon', 'version_info']
